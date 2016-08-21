@@ -1,0 +1,47 @@
+body{
+	background: #fff;
+}
+
+
+
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+
+	box-sizing: border-box;
+}
+
+.image {
+	max-width: 360px;
+}
+
+.description{
+	max-width: 1080px;
+	margin-top: 40px;
+	text-align: justify;
+	color: #8B8B83;
+	font-size: large;
+}
+
+.corpo{
+	width: 1080px;
+	margin: auto;
+}
+
+img {
+	float: left;
+	margin: 0px 20px 10px 0;
+}
+
+h1{
+	background: #00FFFF;
+	max-width: 1080px;
+	font-family: cursive;
+	font-size: xx-large;
+	color: #fff;
+}
+
+.tytle{
+	text-transform: uppercase;
+}
